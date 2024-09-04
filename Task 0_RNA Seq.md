@@ -1,4 +1,4 @@
-RNA Sequencing
+# RNA Sequencing
 
 
 # Introduction
