@@ -1,5 +1,5 @@
 # RNA Sequencing
-
+Authors (@slack): Zarak Imtiaz Khan (@Zarak)
 
 # Introduction
 
